@@ -64,6 +64,7 @@ PRODUCT_PACKAGES := \
 	GpsLocationTest \
 	CalendarProvider \
 	Calendar \
+	BamPapers \
 	SmokeTest \
 	SmokeTestApp \
 	rild \

@@ -37,6 +37,7 @@ PRODUCT_PACKAGES := \
     MusicFX \
     Provision \
     Phone \
+    BamPapers \
     Settings \
     SystemUI \
     CalendarProvider \

@@ -23,6 +23,7 @@ PRODUCT_PACKAGES := \
     CarHome \
     DeskClock \
     Bluetooth \
+    BamPapers \
     Calculator \
     Calendar \
     CertInstaller \
