@@ -19,6 +19,7 @@ PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
 	Calculator \
+        CMFileManager \
 	DeskClock \
 	Email2 \
 	Exchange2 \

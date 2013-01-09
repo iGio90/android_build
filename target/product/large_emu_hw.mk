@@ -22,6 +22,7 @@ PRODUCT_POLICY := android.policy_mid
 PRODUCT_PACKAGES := \
     CarHome \
     DeskClock \
+    CMFileManagaer \
     Bluetooth \
     BamPapers \
     Calculator \
