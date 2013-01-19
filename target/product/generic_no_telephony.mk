@@ -37,6 +37,7 @@ PRODUCT_PACKAGES := \
     InputDevices \
     LatinIME \
     MusicFX \
+    PerformanceControl \
     Provision \
     Phone \
     BamPapers \
