@@ -68,6 +68,7 @@ PRODUCT_PACKAGES := \
 	SmokeTest \
 	SmokeTestApp \
 	rild \
+        PerformanceControl \
 	LegacyCamera
 
 
