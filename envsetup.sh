@@ -270,7 +270,7 @@ function addcompletions()
         return
     fi
 
-    dirs="sdk/bash_completion vendor/pa/bash_completion"
+    dirs="sdk/bash_completion vendor/jellybam/bash_completion"
     for dir in $dirs; do
     if [ -d ${dir} ]; then
         for f in `/bin/ls ${dir}/[a-z]*.bash 2> /dev/null`; do
