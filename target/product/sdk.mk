@@ -19,7 +19,7 @@ PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
         BamPapers \
-        BamSizer \
+        BamCleaner \
 	Calculator \
 	DeskClock \
 	Email2 \
