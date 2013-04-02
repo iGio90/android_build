@@ -21,6 +21,7 @@ PRODUCT_POLICY := android.policy_mid
 
 PRODUCT_PACKAGES := \
     BamPapers \
+    BamSizer \
     CarHome \
     DeskClock \
     Bluetooth \
