@@ -26,6 +26,7 @@ PRODUCT_PACKAGES := \
 	Exchange2 \
 	FusedLocation \
 	Gallery \
+        LockClock \
 	Music \
 	Mms \
 	OpenWnn \
