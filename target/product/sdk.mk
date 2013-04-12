@@ -40,7 +40,6 @@ PRODUCT_PACKAGES := \
 	Protips \
 	SoftKeyboard \
 	SystemUI \
-	Launcher2 \
 	Development \
 	DevelopmentSettings \
 	DrmProvider \

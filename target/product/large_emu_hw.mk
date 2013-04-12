@@ -34,7 +34,6 @@ PRODUCT_PACKAGES := \
     Exchange2 \
     Gallery2 \
     LatinIME \
-    Launcher2 \
     LockClock \
     Music \
     PerformanceControl \

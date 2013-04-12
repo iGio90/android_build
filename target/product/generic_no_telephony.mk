@@ -35,7 +35,6 @@ PRODUCT_PACKAGES := \
     Gallery2 \
     InputDevices \
     LatinIME \
-    Launcher2 \
     LockClock \
     Music \
     PerformanceControl \
