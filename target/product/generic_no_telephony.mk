@@ -20,8 +20,9 @@
 PRODUCT_POLICY := android.policy_phone
 
 PRODUCT_PACKAGES := \
-    BamPapers \
+    BamLauncher \
     BamCleaner \
+    BamPapers \
     DeskClock \
     Bluetooth \
     Calculator \

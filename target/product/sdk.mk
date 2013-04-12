@@ -18,8 +18,9 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
-        BamPapers \
+        BamLauncher \
         BamCleaner \
+        BamPapers \
 	Calculator \
 	DeskClock \
 	Email2 \
