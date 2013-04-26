@@ -18,7 +18,6 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
-        BamLauncher \
         BamCleaner \
         BamPapers \
 	Calculator \

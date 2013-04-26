@@ -20,7 +20,6 @@
 PRODUCT_POLICY := android.policy_phone
 
 PRODUCT_PACKAGES := \
-    BamLauncher \
     BamCleaner \
     BamPapers \
     DeskClock \

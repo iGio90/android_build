@@ -20,7 +20,6 @@
 PRODUCT_POLICY := android.policy_mid
 
 PRODUCT_PACKAGES := \
-    BamLauncher \
     BamCleaner \
     BamPapers \
     CarHome \
