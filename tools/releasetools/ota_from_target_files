@@ -450,8 +450,8 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("#                                  #");
   jellybamv = GetBuildProp("ro.jellybam.version", OPTIONS.info_dict)
   build = GetBuildProp("ro.build.date", OPTIONS.info_dict)
-  script.Print("* Version: %s"%(jellybamv));
-  script.Print("* Compiled: %s"%(build));
+  script.Print("# Version: %s"%(jellybamv));
+  script.Print("# Compiled: %s"%(build));
   script.Print("####################################");
 
   
