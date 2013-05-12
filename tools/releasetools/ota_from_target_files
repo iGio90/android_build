@@ -449,7 +449,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("# WebSite: bam-android.com         #");
   script.Print("# Facebook: facebook.com/JellyBam  #");
   script.Print("#                                  #");
-  script.Print("# --Datails----------------------- #");
+  script.Print("# --Details----------------------- #");
   script.Print("#                                  #");
   jellybamv = GetBuildProp("ro.jellybam.version", OPTIONS.info_dict)
   script.Print("# Version: %s"%(jellybamv));
