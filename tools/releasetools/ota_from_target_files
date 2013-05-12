@@ -442,7 +442,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("#                                  #");
   script.Print("# -------------------------------- #");
   script.Print("#                                  #");
-  script.Print("# Developer: iGio90                #");
+  script.Print("# Developer: iGio90, frogfire      #");
   script.Print("# Graphics: Bliss91, MVODESIGN     #");
   script.Print("#                                  #");
   script.Print("# WebSite: bam-android.com         #");
