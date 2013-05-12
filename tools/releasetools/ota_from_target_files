@@ -442,7 +442,7 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("#                                  #");
   script.Print("# --Bam TEAM---------------------- #");
   script.Print("#                                  #");
-  script.Print("# Developer: iGio90, frogfire      #");
+  script.Print("# Developer: iGio90                #");
   script.Print("# Graphics: Bliss91, MVODESIGN     #");
   script.Print("# Others: frogfire                 #");
   script.Print("#                                  #");
