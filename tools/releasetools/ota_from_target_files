@@ -440,15 +440,25 @@ def WriteFullOTAPackage(input_zip, output_zip):
   script.Print("# _| |__) |/ /   \ \_ _| |_\/_| |_ #");
   script.Print("#|_______/____| |____|_____||_____|#");
   script.Print("#                                  #");
-  script.Print("# -------------------------------- #");
+  script.Print("# --Bam TEAM---------------------- #");
   script.Print("#                                  #");
   script.Print("# Developer: iGio90                #");
   script.Print("# Graphics: Bliss91, MVODESIGN     #");
+  script.Print("# Others: frogfire                 #");
   script.Print("#                                  #");
   script.Print("# WebSite: bam-android.com         #");
   script.Print("# Facebook: facebook.com/JellyBam  #");
   script.Print("#                                  #");
-  script.Print("####################################"); 
+  script.Print("# --Details----------------------- #");
+  script.Print("#                                  #");
+  jellybamv = GetBuildProp("ro.jellybam.version", OPTIONS.info_dict)
+  script.Print("# Version: %s"%(jellybamv));
+  device = GetBuildProp("ro.product.device", OPTIONS.info_dict)
+  model = GetBuildProp("ro.product.model", OPTIONS.info_dict)
+  script.Print("# Device: %s (%s)"%(model, device));
+  script.Print("#                                  #");
+  script.Print("####################################");
+  
 
   if "selinux_fc" in OPTIONS.info_dict:
     WritePolicyConfig(OPTIONS.info_dict["selinux_fc"], output_zip)
