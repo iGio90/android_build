@@ -32,6 +32,7 @@ PRODUCT_PACKAGES := \
     Exchange2 \
     FusedLocation \
     Gallery2 \
+    HALO \
     InputDevices \
     LatinIME \
     LockClock \

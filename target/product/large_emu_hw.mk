@@ -32,6 +32,7 @@ PRODUCT_PACKAGES := \
     Email2 \
     Exchange2 \
     Gallery2 \
+    HALO \
     LatinIME \
     LockClock \
     Music \
