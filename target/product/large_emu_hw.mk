@@ -31,7 +31,6 @@ PRODUCT_PACKAGES := \
     DrmProvider \
     Email2 \
     Exchange2 \
-    Gallery2 \
     HALO \
     LatinIME \
     LockClock \

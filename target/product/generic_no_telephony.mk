@@ -31,7 +31,6 @@ PRODUCT_PACKAGES := \
     Email2 \
     Exchange2 \
     FusedLocation \
-    Gallery2 \
     HALO \
     InputDevices \
     LatinIME \
