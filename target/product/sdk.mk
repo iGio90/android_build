@@ -25,7 +25,6 @@ PRODUCT_PACKAGES := \
 	Email2 \
 	Exchange2 \
 	FusedLocation \
-	Gallery \
         HALO \
         LockClock \
 	Music \
@@ -70,8 +69,7 @@ PRODUCT_PACKAGES := \
 	SmokeTest \
 	SmokeTestApp \
 	rild \
-        PerformanceControl \
-	LegacyCamera
+        PerformanceControl 
 
 
 # Define the host tools and libs that are parts of the SDK.
